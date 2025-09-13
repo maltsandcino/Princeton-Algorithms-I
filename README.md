@@ -21,8 +21,9 @@ Introduction to Quick-Union and Weighted Quick-Union Algorithms. These were used
 ## Linked List and Array Implementations of Stacks and Queues
 Introduction to Stacks and Queues, building them with Linked Lists and Dynamic Arrays. 
 
-- Queue
+- Deque
 - Randomized Queue
-- Permutation
+- Permutation <- Uses a Randomized Queue to choose a random string (once) from a collection of strings.
+
 
 
